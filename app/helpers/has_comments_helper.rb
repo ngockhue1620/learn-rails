@@ -1,0 +1,2 @@
+module HasCommentsHelper
+end
